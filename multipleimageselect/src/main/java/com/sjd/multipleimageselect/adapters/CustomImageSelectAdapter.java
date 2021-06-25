@@ -1,4 +1,4 @@
-package com.darsh.multipleimageselect.adapters;
+package com.sjd.multipleimageselect.adapters;
 
 import android.content.Context;
 import android.view.View;
@@ -7,8 +7,8 @@ import android.widget.FrameLayout;
 import android.widget.ImageView;
 
 import com.bumptech.glide.Glide;
-import com.darsh.multipleimageselect.R;
-import com.darsh.multipleimageselect.models.Image;
+import com.sjd.multipleimageselect.R;
+import com.sjd.multipleimageselect.models.Image;
 
 import java.util.ArrayList;
 

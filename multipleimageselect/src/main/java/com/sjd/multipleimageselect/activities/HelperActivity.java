@@ -1,4 +1,4 @@
-package com.darsh.multipleimageselect.activities;
+package com.sjd.multipleimageselect.activities;
 
 import android.Manifest;
 import android.content.Intent;
@@ -12,8 +12,8 @@ import androidx.core.content.ContextCompat;
 import androidx.appcompat.app.AppCompatActivity;
 import android.view.View;
 
-import com.darsh.multipleimageselect.R;
-import com.darsh.multipleimageselect.helpers.Constants;
+import com.sjd.multipleimageselect.R;
+import com.sjd.multipleimageselect.helpers.Constants;
 
 /**
  * Created by darshan on 26/9/16.

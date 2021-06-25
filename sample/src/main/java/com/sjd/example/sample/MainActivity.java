@@ -1,4 +1,4 @@
-package com.darsh.example.sample;
+package com.sjd.example.sample;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -7,9 +7,9 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.TextView;
 
-import com.darsh.multipleimageselect.activities.AlbumSelectActivity;
-import com.darsh.multipleimageselect.helpers.Constants;
-import com.darsh.multipleimageselect.models.Image;
+import com.sjd.multipleimageselect.activities.AlbumSelectActivity;
+import com.sjd.multipleimageselect.helpers.Constants;
+import com.sjd.multipleimageselect.models.Image;
 
 import java.util.ArrayList;
 

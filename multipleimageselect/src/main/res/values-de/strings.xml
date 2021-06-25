@@ -9,6 +9,15 @@
     <string name="selected">ausgewählt</string>
     <string name="limit_exceeded">Kann maximal %d Bilder auswählen</string>
 
+    <string name="error_null_cursor">Ups! Irgendwas lief schief!</string>
+
+    <!--Request Permission-->
+    <string name="permission_info">Die App benötigt die Berechtigung für den Speicher, um Bilder anzuzeigen.</string>
+    <string name="permission_force">Die App benötigt die Berechtigung für den Speicher, um Bilder anzuzeigen. Tippen Sie auf Einstellungen und gehen Sie zu Berechtigungen, um die Berechtigung zu erteilen.</string>
+    <string name="permission_ok">OK</string>
+    <string name="permission_settings">die Einstellungen</string>
+    <string name="permission_package">Paket</string>
+
     <string name="permission_denied">Zugriff verweigert!</string>
     <string name="permission_denied_albums">Zugriff auf Fotos, Medien und Dateien auf dem Gerät erlauben, um die Alben anzuzeigen</string>
     <string name="permission_denied_images">Zugriff auf Fotos, Medien und Dateien auf dem Gerät erlauben, um die Bilder anzuzeigen</string>

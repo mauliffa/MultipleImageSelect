@@ -1,4 +1,4 @@
-package com.darsh.multipleimageselect.adapters;
+package com.sjd.multipleimageselect.adapters;
 
 import android.content.Context;
 import android.view.LayoutInflater;

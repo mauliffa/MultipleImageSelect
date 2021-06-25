@@ -39,7 +39,7 @@ dependencies {
 In project's AndroidManifest.xml, add the following under application node:
 ```xml
 <activity
-  android:name="com.darsh.multipleimageselect.activities.AlbumSelectActivity"
+  android:name="sjd.multipleimageselect.activities.AlbumSelectActivity"
   android:theme="@style/MultipleImageSelectTheme">
   <intent-filter>
     <category android:name="android.intent.category.DEFAULT" />
@@ -111,14 +111,14 @@ Add ```tools:replace="android:theme"``` to AlbumSelectActivity and ImageSelectAc
   xmlns:tools="http://schemas.android.com/tools"
   ...>
   
-  <activity android:name="com.darsh.multipleimageselect.activities.AlbumSelectActivity"
+  <activity android:name="sjd.multipleimageselect.activities.AlbumSelectActivity"
 		tools:replace="android:theme"
     android:theme="@style/OverrideMultipleImageSelectTheme">
     <intent-filter>
       <category android:name="ANDROID.INTENT.CATEGORY.DEFAULT" />
     </intent-filter>
     </activity>
-  <activity android:name="com.darsh.multipleimageselect.activities.ImageSelectActivity"
+  <activity android:name="sjd.multipleimageselect.activities.ImageSelectActivity"
     tools:replace="android:theme"
     android:theme="@style/OverrideMultipleImageSelectTheme">
     <intent-filter>
@@ -129,7 +129,7 @@ Add ```tools:replace="android:theme"``` to AlbumSelectActivity and ImageSelectAc
 #Screenshots
 Can be found [here](https://github.com/darsh2/MultipleImageSelect/tree/master/screenshots)
 #Apps using this
-[Gallery Organizer](https://play.google.com/store/apps/details?id=com.darsh.galleryorganizer2)
+[Gallery Organizer](https://play.google.com/store/apps/details?id=sjd.galleryorganizer2)
 
 [PictureJam Collage Maker](https://play.google.com/store/apps/details?id=xyz.pichancer.picturejam.free)
 #Similar Projects

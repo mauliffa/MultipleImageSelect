@@ -1,4 +1,4 @@
-package com.darsh.multipleimageselect.models;
+package com.sjd.multipleimageselect.models;
 
 /**
  * Created by Darshan on 4/14/2015.

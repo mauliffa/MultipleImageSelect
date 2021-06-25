@@ -1,4 +1,4 @@
-package com.darsh.multipleimageselect.models;
+package com.sjd.multipleimageselect.models;
 
 import android.os.Parcel;
 import android.os.Parcelable;

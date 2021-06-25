@@ -1,4 +1,4 @@
-package com.darsh.multipleimageselect.activities;
+package com.sjd.multipleimageselect.activities;
 
 import android.content.Context;
 import android.content.Intent;
@@ -25,10 +25,10 @@ import android.widget.ProgressBar;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.darsh.multipleimageselect.R;
-import com.darsh.multipleimageselect.adapters.CustomImageSelectAdapter;
-import com.darsh.multipleimageselect.helpers.Constants;
-import com.darsh.multipleimageselect.models.Image;
+import com.sjd.multipleimageselect.R;
+import com.sjd.multipleimageselect.adapters.CustomImageSelectAdapter;
+import com.sjd.multipleimageselect.helpers.Constants;
+import com.sjd.multipleimageselect.models.Image;
 
 import java.io.File;
 import java.util.ArrayList;

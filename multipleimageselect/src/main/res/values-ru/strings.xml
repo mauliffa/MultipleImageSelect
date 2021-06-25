@@ -9,6 +9,15 @@
     <string name="selected">Выбрано</string>
     <string name="limit_exceeded">Можно выбрать максимум %d изображений</string>
 
+    <string name="error_null_cursor">Упс! Что-то пошло не так!</string>
+
+    <!--Request Permission-->
+    <string name="permission_info">Приложению требуется разрешение на Хранилище для просмотра изображений.</string>
+    <string name="permission_force">Приложению требуется разрешение на Хранилище для просмотра изображений. Нажмите «Настройки» и перейдите в раздел «Разрешения», чтобы предоставить разрешение.</string>
+    <string name="permission_ok">ОК</string>
+    <string name="permission_settings">Настройки</string>
+    <string name="permission_package">упаковка</string>
+
     <string name="permission_denied">Отсутствует разрешение!</string>
     <string name="permission_denied_albums">Разрешите доступ к фотографиям, медиа и файлам на своём устройстве для просмотра альбомов</string>
     <string name="permission_denied_images">Разрешите доступ к фотографиям, медиа и файлам на своём устройстве для просмотра изображений</string>

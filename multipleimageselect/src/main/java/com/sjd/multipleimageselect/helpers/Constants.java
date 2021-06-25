@@ -1,4 +1,4 @@
-package com.darsh.multipleimageselect.helpers;
+package com.sjd.multipleimageselect.helpers;
 
 /**
  * Created by Darshan on 5/26/2015.
