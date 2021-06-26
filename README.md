@@ -19,7 +19,7 @@ repositories {
 }
 
 dependencies {
-  compile 'com.github.darsh2:MultipleImageSelect:v0.0.4'
+  implementation 'com.github.sjd753:MultipleImageSelect:1.0.1'
 }
 ```
 
@@ -32,7 +32,7 @@ repositories {
 }
 
 dependencies {
-  compile 'com.github.darsh2:MultipleImageSelect:3474549'
+  implementation 'com.github.sjd753:MultipleImageSelect:1.0.1'
 }
 ```
 
