@@ -60,7 +60,7 @@ public class AlbumSelectActivity extends HelperActivity {
         setContentView(R.layout.activity_album_select);
         setView(findViewById(R.id.layout_album_select));
 
-        Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
+        androidx.appcompat.widget.Toolbar toolbar = (androidx.appcompat.widget.Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
 
         actionBar = getSupportActionBar();
